@@ -1,0 +1,25 @@
+body {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+button {
+    
+    height: 100px;
+    width: 200px;
+    font-size: 50px;
+    color: aquamarine;
+    background-color: azure;
+    
+    
+}
+
+button:hover {
+
+    background-color: aquamarine;
+    color: azure;
+    cursor: pointer;
+}
